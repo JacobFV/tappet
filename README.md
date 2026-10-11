@@ -1,3 +1,5 @@
+> **⚠️ Moved:** Tappet now lives inside **[JacobFV/labrat](https://github.com/JacobFV/labrat/tree/main/tappet)** (`tappet/`), with full history. This repo is archived. Please open issues and PRs there.
+
 # Tappet
 
 **A ~$99 desktop robot that uses your phones.** Your old Android phone becomes its head: face,
